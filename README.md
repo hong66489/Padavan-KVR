@@ -141,7 +141,7 @@ nano /opt/Padavan-KVR/trunk/configs/templates/K2.config
 ```shell
 cd /opt/Padavan-KVR/trunk
 ./clear_tree
-fakeroot ./build_firmware_modify K2
+fakeroot ./build_firmware_modify MI-R3
 # 脚本第一个参数为路由型号，在trunk/configs/templates/中
 # 编译好的固件在trunk/images里
 ```
